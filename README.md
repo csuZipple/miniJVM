@@ -16,6 +16,8 @@ Class文件的装载
 
 基于命令模式实现对字节码指令的执行
 
+更详细的介绍见：[miniJVM的设计与实现](https://github.com/PikachuHy/miniJVM/blob/master/doc/miniJVM%E7%9A%84%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%AE%9E%E7%8E%B0.md)
+或者去我[CSDN Blog](https://blog.csdn.net/qq_32768743/article/details/79691354)
 ## 参考
 
 1. 《深入理解Java虚拟机:JVM高级特性与最佳实践》第2版
